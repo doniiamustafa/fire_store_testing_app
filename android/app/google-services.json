@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "245872188063",
+    "firebase_url": "https://firestoretestingapp-f6fa1-default-rtdb.firebaseio.com",
+    "project_id": "firestoretestingapp-f6fa1",
+    "storage_bucket": "firestoretestingapp-f6fa1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245872188063:android:b5c610bfb2049e9dc120aa",
+        "android_client_info": {
+          "package_name": "com.example.fire_store_testing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245872188063-d6e5encrpvc50gf391hh94j2em5i1mvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlJRw3e5e-ho2bdavU1vpOEVqadlQvOJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245872188063-d6e5encrpvc50gf391hh94j2em5i1mvd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "245872188063-faseeintpea65ghfcjjgcln25inqg5bm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fireStoreTestingApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
